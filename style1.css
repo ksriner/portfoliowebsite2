@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-weight: bold;
+    margin: 0;
+}
+
+.header {
+    font-size: 32px;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+.content {
+    max-width: 1300px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+    .content p {
+        font-size: 18px;
+        line-height: 1.8;
+    }
+
+.skills {
+    max-width: 1300px;
+    margin: auto;
+}
+
+    .skills p {
+        font-size: 18px;
+        line-height: 1.8;
+    }
+
+    .skills img {
+        padding-top: 50px;
+        padding-left: 25px;
+        padding-bottom: 20px;
+    }
+
+.education {
+    max-width: 1300px;
+    margin: auto;
+}
+
+    .education p {
+        font-size: 18px;
+        line-height: 1.8;
+    }
+
+    .education img {
+        padding-top: 35px;
+    }
+
+.projects {
+    max-width: 1300px;
+    margin: auto;
+}
+
+    .projects li {
+        font-size: 18px;
+    }
+
+    .projects img {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+.awards {
+    max-width: 1300px;
+    margin: auto;
+}
+
+    .awards p {
+        font-size: 18px;
+        line-height: 1.8;
+    }
+
+.volunteer {
+    max-width: 1300px;
+    margin: auto;
+}
+
+    .volunteer li {
+        font-size: 18px;
+    }
+
+    .volunteer img {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+.socials {
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding-top: 25px;
+    bottom: 0px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
